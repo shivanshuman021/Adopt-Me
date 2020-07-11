@@ -4,8 +4,8 @@
   "description": "Pet adoption react app",
   "main": "index.js",
   "scripts": {
-    "format": "prettier \"src/**/*.{js,html}\" --write",
-    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "format": "prettier \"src/**/* .{js,html}\" --write",
+    "lint": "eslint \"src/**/* .{js,jsx}\" ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/shivanshuman021/Adopt-Me#readme",
   "devDependencies": {
+    "eslint": "^7.4.0 || ^5.0.1",
     "eslint-config-prettier": "^6.11.0",
     "prettier": "^2.0.5"
   }
