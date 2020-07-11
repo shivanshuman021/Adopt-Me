@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shivanshuman021/Adopt-Me/issues"
   },
-  "homepage": "https://github.com/shivanshuman021/Adopt-Me#readme"
+  "homepage": "https://github.com/shivanshuman021/Adopt-Me#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
 }
