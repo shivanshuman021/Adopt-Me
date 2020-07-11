@@ -1,0 +1,19 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "Pet adoption react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanshuman021/Adopt-Me.git"
+  },
+  "author": "Anshuman Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanshuman021/Adopt-Me/issues"
+  },
+  "homepage": "https://github.com/shivanshuman021/Adopt-Me#readme"
+}
